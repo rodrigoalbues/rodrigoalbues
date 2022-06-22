@@ -3,6 +3,12 @@
 - Sou um Eng de Controle e Automação apaixonado por tecnologia, inovação e principalmente tudo ligado a automação.
 - Estou iniciando os estudos em Desenvolvimento Web e Mobile.
 
+##
+### Onde você pode me achar:
+
+
+##
+### Ferramentas que conheço:
 
 <div>
   <a href="https://github.com/rodrigoalbues">
