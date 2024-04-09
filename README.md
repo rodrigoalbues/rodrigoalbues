@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rodrigo Albues 👋
 
 - Sou um Eng de Controle e Automação apaixonado por tecnologia, inovação e principalmente tudo ligado a automação.
-- Estou iniciando os estudos em Desenvolvimento Web e Mobile.
+- Estou iniciando os estudos em Python.
 
 ##
 ### Onde você pode me achar:
