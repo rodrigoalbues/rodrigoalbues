@@ -2,7 +2,7 @@
 
 - Sou um Eng de Controle e Automação apaixonado por tecnologia, inovação e principalmente tudo ligado a automação.
 - Já fiz pequenos projetos de desenvolvimento web com HTML5, CSS3 e JS.
-- Agora estou me dedicando aos estudos de Python.
+- Agora estou me dedicando aos estudos de Python, focando nas interações entre essas tecnologias e a automação industrial.
 
 ##
 ### Onde você pode me achar:
